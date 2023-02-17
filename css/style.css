@@ -17,7 +17,7 @@
 }
 
 * {
-    background-image: url(/img/baticueva.png);   
+    background-image: url(../img/baticueva.png);   
     background-attachment: fixed; 
     background-position: 50%;
     font-family: 'Inter';
@@ -110,7 +110,7 @@ main {
 
 .mensaje {
     background:hsl(0, 0%, 3%);
-    background-image: url("/img/matrix.gif");
+    background-image: url("../img/matrix.gif");
     background-position: center;
     background-repeat: no-repeat;
     border: none;
